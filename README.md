@@ -7,6 +7,7 @@ software. Closed databases makes it hard to migrate to other tools. These tools 
 as database, to make it easier to "migrate" to a new tool or generate another report with another tool etc.
 
 
+
 Open accounting plans to have features for:
 
 
