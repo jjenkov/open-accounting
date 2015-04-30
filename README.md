@@ -17,4 +17,5 @@ etc.
 
 This is not intended to be a replacement for an ERP. Rather, it is intended to be an open collection of tools
 working on an open set of JSON file formats. The tools are command line tools. The output is HTML reports.
+Let's make accounting easier for small businesses.
 
