@@ -1,0 +1,17 @@
+{
+  "name" : "This is account nr. 1",
+  "bank" : "Mega Bank",
+  "IBAN" : "123213324",
+
+  "saldo" : 123144,
+
+  "periodStart" : "2015-01-01",
+  "periodEnd"   : "2015-12-31",
+
+  "movements"   : [
+    {},
+    {}
+  ]
+
+
+}
