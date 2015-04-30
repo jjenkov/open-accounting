@@ -22,8 +22,8 @@ etc.
 
 
 This is not intended to be a replacement for an ERP. Rather, it is intended to be an open collection of tools
-working on an open set of JSON file formats. So far the tools are command line tools and the output is HTML reports.
-In the future we might be able to create a GUI for the repo - just like GUIs for Git repos.  Or use the JSON
+working on an open set of JSON file formats (organized into a repository). So far the tools are command line tools and the output is HTML reports.
+In the future we might be able to create a GUI for the repository - just like GUIs for Git repository.  Or use the JSON
 file formats as import / export formats between tools that are using closed databases today.
 
 Let's make accounting easier and cheaper for small businesses.
